@@ -1,5 +1,5 @@
 # Flutter apps
-In this repository I will post flutter apps / projectsn that i had done or currrently doing
+In this repository I will post flutter apps / projects that i had done or currrently doing
 #  Analog Clock Light & Dark Theme
 Analog clock with a button to toggle dark and light theme.
 
